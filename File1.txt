@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 nr 21 by elise
 nr 21 trying again
 nr16 - Edit but johen
 
+=======
+Edit nr16 - Edit but johen
+>>>>>>> e69beacca62d6258607a9fec33b743da9c0319ec
